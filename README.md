@@ -1,2 +1,2 @@
 # artiscene
-We plan to release the code in June, stay tuned!
+Code released at https://github.com/NVlabs/ArtiScene
